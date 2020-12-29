@@ -12,9 +12,9 @@ tambahkan kode berikut ini pada bagian Build Gradle (Project)
   
   Kemudian tambahkan kode berikut ini pada bagian Build Gradle (Module)
   
-  	dependencies {
-	        implementation 'com.github.Nandang007:LibraryNandang:Tag'
-	  }
+	dependencies {
+	        implementation 'com.github.Nandang007:LibraryNandang:1.3'
+	}
     
     
     Setelah itu anda bisa menggunakan Class berikut ini    
