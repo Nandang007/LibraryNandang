@@ -1,0 +1,3 @@
+include ':NandangLibrary'
+include ':app'
+rootProject.name = "ProjectNandangLibrary"
